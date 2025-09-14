@@ -12,4 +12,4 @@ Um projeto simples que consistia na criação em **JavaScript, CSS e Html** de u
 
 Basta clonar o repositório:
 
-git clone
+git clone https://github.com/raphaelormonde/Challenge-Amigo-Secreto/tree/main
